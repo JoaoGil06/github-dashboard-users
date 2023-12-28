@@ -2,6 +2,8 @@
 
 - This is a project where you can quickly obtain a dashboard with data from a Github user. With this, we are able to access information in an organized and consistent way.
 
+### [Click here to see the live demo](https://github-dashboard-users.vercel.app/)
+
 # Features
 
 - [⚛ React JS](https://react.dev/)
@@ -13,7 +15,7 @@
 
 # Getting Started
 
-1. Clone this repo using git clone [https://github.com/JoaoGil06/github-dashboard-users](https://github.com/JoaoGil06/github-dashboard-users)
+1. Clone this repo using git clone [https://github.com/JoaoGil06/github-dashboard-users.git](https://github.com/JoaoGil06/github-dashboard-users.git)
 1. Move yourself to the appropriate directory: cd github-dashboard-users
 1. Run yarn install or npm install to install dependencies
 
