@@ -1,8 +1,6 @@
-
-export default interface InfoItemProps  {
-    icon: JSX.Element;
-    label: string;
-    value: number | undefined;
-    color: string;
-
+export default interface InfoItemProps {
+	icon: JSX.Element;
+	label: string;
+	value: number | undefined | null;
+	color: string;
 }
